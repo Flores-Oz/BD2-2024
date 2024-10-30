@@ -1,0 +1,14 @@
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\bin\Debug\FTP.exe.manifest
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\bin\Debug\FTP.application
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.csproj.AssemblyReference.cache
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.Form1.resources
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.exe.manifest
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.application
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\Ozzca\OneDrive\Documentos\BD2\FTP\FTP\obj\Debug\FTP.pdb
